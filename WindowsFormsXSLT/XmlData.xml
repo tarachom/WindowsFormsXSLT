@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+
+	<item index="1">
+
+		<name>Товар А</name>
+		<price>100</price>
+		<currency>грн.</currency>
+		<manufacturer>Sony</manufacturer>
+		
+	</item>
+
+	<item index="2">
+
+		<name>Товар Б</name>
+		<price>200</price>
+		<currency>грн.</currency>
+		<manufacturer>Intel</manufacturer>
+
+	</item>
+
+	<item index="3">
+
+		<name>Товар В</name>
+		<price>500</price>
+		<currency>грн.</currency>
+		<manufacturer>Samsung</manufacturer>
+
+	</item>
+	
+</root>
